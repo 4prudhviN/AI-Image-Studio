@@ -6,6 +6,12 @@ Built for the **MirAI School of Technology — Virtual Summer Internship 2026 ·
 
 ---
 
+## 🎬 Demo
+
+▶️ [Watch the demo on Google Drive](https://drive.google.com/file/d/1m4wJ-jXpJQP4ZefxRHlFlA0S0i60lHpb/view?usp=sharing)
+
+---
+
 ## Features
 
 - 🖼️ Generate images from text prompts instantly
